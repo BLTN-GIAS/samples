@@ -16,7 +16,7 @@ article, header, footer, aside, figure, figcaption, nav, section {
   }
 
 body {
-    line-height: 1;
+    line-height: 2.0;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     font-family: 'MS Reference Sans Serif','Roboto','sans-serif';
@@ -28,4 +28,5 @@ ol, ul {
 }
  a {
      text-decoration: none;
+     color: black;
  }
